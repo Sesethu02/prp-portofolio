@@ -9,7 +9,7 @@ This portfolio presents my reflection and evidence of the PRP370 work readiness 
 ## Career Counselling
 
 **Evidence:**  
-![Career Quiz Result](https://github.com/Khedai/work-readiness-portofolio/blob/main/Screenshot%20(85).png)
+![Career Quiz Result](https://github.com/Sesethu02/prp-portofolio/blob/main/career-development.jpg)
 
 ### Reflection (STAR Technique)
 
@@ -30,7 +30,7 @@ This portfolio presents my reflection and evidence of the PRP370 work readiness 
 ## Skills and Interests
 
 **Evidence:**  
-![Skills Quiz Result](https://github.com/Khedai/work-readiness-portofolio/blob/main/Screenshot%20(86).png)
+![Skills Quiz Result](https://github.com/Sesethu02/prp-portofolio/blob/main/Skills-and-interests.jpg)
 
 ### Reflection (STAR Technique)
 
@@ -51,7 +51,7 @@ This portfolio presents my reflection and evidence of the PRP370 work readiness 
 ## Personality Assessment
 
 **Evidence:**  
-![Personality Test Result](https://github.com/Khedai/work-readiness-portofolio/blob/main/Screenshot%20(87).png)
+![Personality Test Result](https://github.com/Sesethu02/prp-portofolio/blob/main/)
 
 ### Reflection (STAR Technique)
 
@@ -93,7 +93,7 @@ This portfolio presents my reflection and evidence of the PRP370 work readiness 
 ## CV Submission
 
 **Evidence:**  
-![CV Submission Confirmation](https://github.com/Khedai/work-readiness-portofolio/blob/main/Screenshot%20(88).png)
+![CV Submission Confirmation](https://github.com/Sesethu02/prp-portofolio/blob/main/cv-submission.jpg)
 
 ### Reflection (STAR Technique)
 
