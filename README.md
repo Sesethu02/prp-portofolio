@@ -72,7 +72,7 @@ This portfolio presents my reflection and evidence of the PRP370 work readiness 
 ## CV
 
 **Evidence:**  
-[View my CV (PDF)](https://github.com/Khedai/work-readiness-portofolio/blob/main/Gray%20and%20White%20Simple%20Professional%20Marketing%20Manager%20CV%20Resume.pdf.pdf)
+[View my CV (PDF)](https://github.com/Sesethu02/prp-portofolio/blob/main/)
 
 ### Reflection (STAR Technique)
 
@@ -93,7 +93,7 @@ This portfolio presents my reflection and evidence of the PRP370 work readiness 
 ## CV Submission
 
 **Evidence:**  
-![CV Submission Confirmation](https://github.com/Sesethu02/prp-portofolio/blob/main/cv-submission.jpg)
+![CV Submission Confirmation](https://github.com/Sesethu02/prp-portofolio/blob/main/cv-subission.jpg)
 
 ### Reflection (STAR Technique)
 
