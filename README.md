@@ -2,7 +2,7 @@
 
 # Work Readiness Portfolio
 
-This portfolio presents my reflection and evidence of the PRP370 work readiness training. It covers key areas such as career counselling, skills assessment, personality evaluation, and CV development.
+This portfolio presents my reflection and evidence of the PRP370 work readiness training. It covers areas such as career counselling, skills assessment, personality evaluation, and CV development.
 
 ---
 
@@ -51,7 +51,7 @@ This portfolio presents my reflection and evidence of the PRP370 work readiness 
 ## Personality Assessment
 
 **Evidence:**  
-![Personality Test Result](https://github.com/Sesethu02/prp-portofolio/blob/main/)
+![Personality Test Result](https://github.com/Sesethu02/prp-portofolio/blob/main/personality.jpg)
 
 ### Reflection (STAR Technique)
 
@@ -77,7 +77,7 @@ This portfolio presents my reflection and evidence of the PRP370 work readiness 
 ### Reflection (STAR Technique)
 
 - **Situation:**  
-  The PRP370 course required us to prepare a professional CV as part of our readiness to enter the job market.
+  The PRP370 module required us to prepare a professional CV as part of our readiness to enter the job market.
 
 - **Task:**  
   I had to develop a CV that reflects my academic experience, skills, and career focus in the IT and multimedia space.
